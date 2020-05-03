@@ -2,7 +2,7 @@
   "name": "covid19-pandemic-pune",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ashishgaude.github.io/covid19-pune",
+  "homepage": "http://covid19pune.github.io/covid19pune",
   "dependencies": {
     "@testing-library/jest-dom": "4.2.4",
     "@testing-library/react": "9.5.0",
